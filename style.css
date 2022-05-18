@@ -1,0 +1,19 @@
+#canvas_1 {
+    width: 200px;
+    height: 200px;
+    background-color: #F4C49D;
+    position: relative;
+    top: 10px;
+    border: double 5px;
+    border-radius: 15%
+}
+
+#canvas_2 {
+    width: 200px;
+    height: 200px;
+    background-color: #C99A99;
+    border: double 5px;
+    border-radius: 15%;
+    transform: translate(-100px, 100px);
+    opacity: 0.5
+}
